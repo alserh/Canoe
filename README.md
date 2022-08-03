@@ -5,7 +5,7 @@
 - [x] Modules and Checklist
 - [x] Testing Types
 - [x] Bug Report
-- [ ] On git?
+- [x] On Git `still need an advice if this is a correct implementation`
 
 Thank you!
 🦄 
