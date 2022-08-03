@@ -1,10 +1,11 @@
-# Canoeband
+# Canoe
 
-## Canoeband testing task: 
+## Canoeband testing task by Alexandre Serheyuk: 
 
 - [x] Modules and Checklist
 - [x] Testing Types
-- [x] Bug Report 
+- [x] Bug Report
+- [ ] On git?
 
 Thank you!
 🦄 
